@@ -66,7 +66,7 @@ After training, the model is evaluated on the validation set, and the following 
 
     accuracy                           0.91       181
    macro avg       0.90      0.91      0.90       181
-weighted avg       0.91      0.91      0.91       181
+  weighted avg       0.91      0.91      0.91       181
   ```
 
 ## Usage
