@@ -56,6 +56,7 @@ After training, the model is evaluated on the validation set, and the following 
   [[104  11]
    [  6  60]]
   ```
+  
 - Classification Report:
   ```
                 precision    recall  f1-score   support
@@ -71,4 +72,4 @@ weighted avg       0.91      0.91      0.91       181
 ## Usage
 
 To use the trained model for inference, load the best model weights and pass in new video frames or sequences for classification.
-```
+
