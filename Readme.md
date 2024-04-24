@@ -1,4 +1,4 @@
-```
+
 # Theft Detection Model
 
 This project is aimed at building a machine learning model for detecting shoplifting incidents using video data from the DCSASS Dataset. The model is designed to classify video frames as either containing a shoplifting event or not.
